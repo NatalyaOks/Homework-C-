@@ -1,0 +1,15 @@
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\Work003.csproj.AssemblyReference.cache
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\Work003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\Work003.AssemblyInfoInputs.cache
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\Work003.AssemblyInfo.cs
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\Work003.csproj.CoreCompileInputs.cache
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\bin\Debug\net6.0\Work003.exe
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\bin\Debug\net6.0\Work003.deps.json
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\bin\Debug\net6.0\Work003.runtimeconfig.json
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\bin\Debug\net6.0\Work003.dll
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\bin\Debug\net6.0\Work003.pdb
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\Work003.dll
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\refint\Work003.dll
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\Work003.pdb
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\Work003.genruntimeconfig.cache
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work003\obj\Debug\net6.0\ref\Work003.dll
