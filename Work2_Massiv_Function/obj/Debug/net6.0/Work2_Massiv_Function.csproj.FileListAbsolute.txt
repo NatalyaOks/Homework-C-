@@ -1,0 +1,15 @@
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\Work2_Massiv_Function.csproj.AssemblyReference.cache
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\Work2_Massiv_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\Work2_Massiv_Function.AssemblyInfoInputs.cache
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\Work2_Massiv_Function.AssemblyInfo.cs
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\Work2_Massiv_Function.csproj.CoreCompileInputs.cache
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\bin\Debug\net6.0\Work2_Massiv_Function.exe
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\bin\Debug\net6.0\Work2_Massiv_Function.deps.json
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\bin\Debug\net6.0\Work2_Massiv_Function.runtimeconfig.json
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\bin\Debug\net6.0\Work2_Massiv_Function.dll
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\bin\Debug\net6.0\Work2_Massiv_Function.pdb
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\Work2_Massiv_Function.dll
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\refint\Work2_Massiv_Function.dll
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\Work2_Massiv_Function.pdb
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\Work2_Massiv_Function.genruntimeconfig.cache
+C:\Users\natev\OneDrive\Рабочий стол\СиШарп\HomeWork\Work2_Massiv_Function\obj\Debug\net6.0\ref\Work2_Massiv_Function.dll

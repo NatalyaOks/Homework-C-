@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Work2_Massiv_Function/1.0.0": {
+        "runtime": {
+          "Work2_Massiv_Function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Work2_Massiv_Function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
