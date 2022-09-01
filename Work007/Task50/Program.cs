@@ -31,28 +31,12 @@ void PrintArray(int[,] array)
         Console.WriteLine();
     }
 }
-
-/*bool FindNum(int[,] array, int [,] coord[])
-{
-    int row = int.Parse(coord [0]);
-    int col = int.Parse(coord[1]);
-    if (row < array.GetLength(0)
-       && col < array.GetLength(1))
-    {
-        return true;
-    }
-    return false;
-}
-*/
 Console.Write("Введите количество строк: ");
 int row = int.Parse(Console.ReadLine());
 Console.Write("Введите количество столбцов строк: ");
 int col = int.Parse(Console.ReadLine());
-//Console.Write("Введите позиции элемента через пробел: ");
-  //  int[] coord = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
 int [,] arr = GetArray(row, col);
 PrintArray(arr);
-//FindNum(GetArray(row, col), coord[,]);
 Console.WriteLine("Введите номер строки элемента");
 int rowNum = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите номер столбца элемента");
